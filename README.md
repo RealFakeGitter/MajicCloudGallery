@@ -1,3 +1,8 @@
+MajicCloudGalary is an expermental fork of cloudgalaery. A personal project and i advise people not to use it unless they really dont care about their files. 
+I'm NOT going to reply to ANY issues because i am NOT making this for others. if you choose to use it you choose to use it with the bugs and it wont ever have an update.And im using AI for this so an extra reason for you to NOT use it. xD
+
+Below is just the original readme
+
 <!-- ---------- Header ---------- -->
 <div align="center">
   <img src="app/src/main/res/drawable/chitralaya.png" width="200" height="200">
